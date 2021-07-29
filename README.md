@@ -1,2 +1,2 @@
 # design-pattern
-JAVA 24种设计模式demo
+JAVA 23种设计模式demo
