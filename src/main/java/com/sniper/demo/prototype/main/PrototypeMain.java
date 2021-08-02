@@ -1,7 +1,7 @@
 package com.sniper.demo.prototype.main;
 
-import com.sniper.demo.prototype.entity.Prototype;
 import com.sniper.demo.factory.factory_method.entity.Duck;
+import com.sniper.demo.prototype.entity.Prototype;
 
 import java.io.IOException;
 

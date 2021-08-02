@@ -1,7 +1,7 @@
 package com.sniper.demo.factory.simple_factory.main;
 
-import com.sniper.demo.factory.simple_factory.entity.SimpleFactory;
 import com.sniper.demo.factory.simple_factory.interface_.ISwim;
+import com.sniper.demo.factory.simple_factory.entity.SimpleFactory;
 
 /**
  * 简单工厂模式
