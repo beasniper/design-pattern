@@ -1,9 +1,6 @@
 package com.sniper.demo.strategy.main;
 
-import com.sniper.demo.strategy.entity.Execution;
-import com.sniper.demo.strategy.entity.StrategyA;
-import com.sniper.demo.strategy.entity.StrategyB;
-import com.sniper.demo.strategy.entity.StrategyC;
+import com.sniper.demo.strategy.entity.*;
 
 /**
  * @author sniper
